@@ -1,0 +1,5 @@
+# Nmap 7.70 scan initiated Thu Aug  1 04:23:04 2019 as: nmap -O --script=xmpp-brute.nse -oN scan.txt -v y
+Failed to resolve "y".
+Read data files from: /usr/bin/../share/nmap
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Thu Aug  1 04:23:04 2019 -- 0 IP addresses (0 hosts up) scanned in 1.17 seconds
